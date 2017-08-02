@@ -1,2 +1,3 @@
 # InterviewsQuestionsInJava
-A java code repository for commonly asked interview questions
+A java  repository for commonly asked interview questions
+git tutorials
